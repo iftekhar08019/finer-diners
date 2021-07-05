@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#heading-style{
+    font-size: 60px;
+    position: center;
+    font-weight: bolder;
+    padding-top: 100px;
+}
+#colour-blue{
+    color: #2218C9;
+} 
+.para-style{
+    text-align: justify;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.button-style{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(blue,#7A74E0);
+    padding: 20px 20px;
+    border-radius: 28px;
+}
+.section-style{
+    display: flex;
+    margin-top: 50px;
+}
+.section-element{
+    display: block;
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.section-element img{
+    float: right;
+    height: 100%;
+}
